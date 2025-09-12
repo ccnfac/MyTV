@@ -13,7 +13,6 @@ AI TV is a cutting edge, voice first television system powered by open source Li
 - 🎙️ **Voice Interface**: Voice model enabling full voice control
 - 🧩 **Agent Architecture**: Action Agents handle diverse workflows
 - 🖥️ **Multi-Mode Use**: Media center, conference station, and workstation all in one
-- 🛡️ **Security**: Built-in VPN, Wireguard VPS, Secure browser
 
 ---
 
