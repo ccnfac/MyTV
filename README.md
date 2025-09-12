@@ -32,7 +32,6 @@ AI TV is a cutting edge, voice first television system powered by open source Li
 
 - 💻 **OS**: Linux
 - 🔐 **Security**:
-  - Wireguard VPN
   - Secure Web Browser
 - 🔧 **Utilities**:
   - Built-in tuner
