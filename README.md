@@ -36,8 +36,8 @@ AI TV is a cutting edge, voice first television system powered by open source Li
   - Wireguard VPN
   - Secure Web Browser
 - 🔧 **Utilities**:
-  - VNC Server/Client
   - Built-in tuner
+  - Parsec
 
 ---
 
