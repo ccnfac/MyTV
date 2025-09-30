@@ -4,10 +4,11 @@
 AI TV is a cutting edge, voice first television system powered by open source Linux, large language models, and orchestrator action agents. Designed for secure and intelligent control over media, communication, and productivity.
 
 ---
-<img width="800" height="400" alt="MyTV" src="https://github.com/user-attachments/assets/528d71ee-1d85-44f1-9471-999271d4f79d" />
-<img width="800" height="400" alt="MyTV2" src="https://github.com/user-attachments/assets/8d2d2f47-9252-4e7a-8849-2e9fe1081dcd" />
-<img width="800" height="400" alt="nec1" src="https://github.com/user-attachments/assets/8bf0feb4-616b-48e6-b33e-157b502dde6c" />
-<img width="800" height="400" alt="nec2" src="https://github.com/user-attachments/assets/3b2c9893-8847-40ab-a519-5533d6376a10" />
+
+<img width="1536" height="1024" alt="MyTV" src="https://github.com/user-attachments/assets/528d71ee-1d85-44f1-9471-999271d4f79d" />
+<img width="1536" height="1024" alt="MyTV2" src="https://github.com/user-attachments/assets/8d2d2f47-9252-4e7a-8849-2e9fe1081dcd" />
+<img width="1536" height="1024" alt="nec1" src="https://github.com/user-attachments/assets/8bf0feb4-616b-48e6-b33e-157b502dde6c" />
+<img width="1536" height="1024" alt="nec2" src="https://github.com/user-attachments/assets/3b2c9893-8847-40ab-a519-5533d6376a10" />
 
 ## Key Features
 
