@@ -46,7 +46,7 @@ AI TV is a cutting edge, voice first television system powered by open source Li
   - Built-in tuner
   - Parsec
 
-## 📱 Apps Overview
+## Apps Overview
 
 ### 📺 TV
 - Core app for watching live television via tuner or IPTV streams.  
