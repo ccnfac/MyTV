@@ -6,7 +6,8 @@ AI TV is a cutting edge, voice first television system powered by open source Li
 ---
 <img width="800" height="400" alt="nec1" src="https://github.com/user-attachments/assets/8bf0feb4-616b-48e6-b33e-157b502dde6c" />
 <img width="800" height="400" alt="nec2" src="https://github.com/user-attachments/assets/3b2c9893-8847-40ab-a519-5533d6376a10" />
-
+<img width="1536" height="1024" alt="MyTV" src="https://github.com/user-attachments/assets/528d71ee-1d85-44f1-9471-999271d4f79d" />
+<img width="1536" height="1024" alt="MyTV2" src="https://github.com/user-attachments/assets/8d2d2f47-9252-4e7a-8849-2e9fe1081dcd" />
 
 ## Key Features
 
@@ -33,9 +34,58 @@ AI TV is a cutting edge, voice first television system powered by open source Li
 - 💻 **OS**: Linux
 - 🔐 **Security**:
   - Secure Web Browser
+- 📦 **Core Apps**:
+  - TV
+  - Media
+  - Retro Games
+  - Conference
+  - Browser
+  - Settings
 - 🔧 **Utilities**:
   - Built-in tuner
   - Parsec
+
+## 📱 Apps Overview
+
+### 📺 TV
+- Core app for watching live television via tuner or IPTV streams.  
+- Supports **EPG (Electronic Program Guide)**, channel organization, and favorites.  
+- Optimized for large-screen navigation with voice or remote control.  
+
+---
+
+### 🎵 Media
+- Local and network-based media playback (music, videos, photos).  
+- **DLNA, SMB, and USB device** support.  
+- Unified media library with intelligent voice search.  
+
+---
+
+### 👾 Retro Games
+- Emulator hub powered by **RetroPie**.  
+- Preloaded with classics and supports adding custom ROMs.  
+- Multiplayer support via **Wi-Fi Direct** and **mesh gaming**.  
+
+---
+
+### 🎥 Conference
+- Video conferencing solution (powered by **WebRTC**).  
+- Integrates with camera and microphone hardware.  
+- Voice-controlled meeting join/start.  
+
+---
+
+### 🌐 Browser
+- Secure, **privacy-focused** web browser.  
+- Designed to make streaming services like **Netflix, YouTube, Prime Video**, etc., feel like native TV apps.  
+- Full-screen optimized for remote and voice input.  
+
+---
+
+### ⚙️ Settings
+- Control over **Wi-Fi, display, sound, user accounts, and system updates**.  
+- Voice-enabled for accessibility.  
+- Includes **profile controls** and **privacy options**.  
 
 ---
 
