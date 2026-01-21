@@ -3,7 +3,6 @@
 
 MyTV is a cutting edge, voice first television system powered by open source Linux, large language models, and orchestrator action agents. Designed for secure and intelligent control over media, communication, and productivity.
 
----
 <img width="1536" height="1024" alt="MyTV3" src="https://github.com/user-attachments/assets/f581b328-6460-4de4-bac6-81a3e982b47d" />
 <img width="1536" height="1024" alt="MyTV" src="https://github.com/user-attachments/assets/528d71ee-1d85-44f1-9471-999271d4f79d" />
 <img width="1536" height="1024" alt="nec1" src="https://github.com/user-attachments/assets/8bf0feb4-616b-48e6-b33e-157b502dde6c" />
@@ -15,7 +14,6 @@ MyTV is a cutting edge, voice first television system powered by open source Lin
 - 🧩 **Agent Architecture**: Action Agents handle diverse workflows
 - 🖥️ **Multi-Mode Use**: Media center, conference station, and workstation all in one
 
----
 
 ## Hardware Stack
 
@@ -27,7 +25,6 @@ MyTV is a cutting edge, voice first television system powered by open source Lin
 | ⌨️ **Keyboard Options**           | Man & Machine keyboard / Rii wireless     |
 | 🖥️ **Displays**                   | Sharp / NEC Display                       |
 
----
 
 ## Software Stack
 
@@ -52,7 +49,6 @@ MyTV is a cutting edge, voice first television system powered by open source Lin
 - Supports **EPG (Electronic Program Guide)**, channel organization, and favorites.  
 - Optimized for large-screen navigation with voice or remote control.  
 
----
 
 ### 🎵 Media
 - Local and network-based media playback (music, videos, photos).  
@@ -66,28 +62,24 @@ MyTV is a cutting edge, voice first television system powered by open source Lin
 - Preloaded with classics and supports adding custom ROMs.  
 - Multiplayer support via **Wi-Fi Direct** and **mesh gaming**.  
 
----
 
 ### 🎥 Conference
 - Video conferencing solution (powered by **WebRTC**).  
 - Integrates with camera and microphone hardware.  
 - Voice-controlled meeting join/start.  
 
----
 
 ### 🌐 Browser
 - Secure, **privacy-focused** web browser.  
 - Designed to make streaming services feel like native TV apps.  
 - Full-screen optimized for remote and voice input.  
 
----
 
 ### ⚙️ Settings
 - Control over **Wi-Fi, display, sound, user accounts, and system updates**.  
 - Voice-enabled for accessibility.  
 - Includes **profile controls** and **privacy options**.  
 
----
 
 ## 🔄 Voice Workflow Orchestration
 
