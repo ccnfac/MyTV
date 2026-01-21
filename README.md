@@ -55,7 +55,6 @@ MyTV is a cutting edge, voice first television system powered by open source Lin
 - **DLNA, SMB, and USB device** support.  
 - Unified media library with intelligent voice search.  
 
----
 
 ### 👾 Retro Games
 - Emulator hub powered by **RetroPie**.  
