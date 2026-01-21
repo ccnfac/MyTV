@@ -77,7 +77,7 @@ MyTV is a cutting edge, voice first television system powered by open source Lin
 
 ### 🌐 Browser
 - Secure, **privacy-focused** web browser.  
-- Designed to make streaming services like **Netflix, YouTube, Prime Video**, etc., feel like native TV apps.  
+- Designed to make streaming services feel like native TV apps.  
 - Full-screen optimized for remote and voice input.  
 
 ---
