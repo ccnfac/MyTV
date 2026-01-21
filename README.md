@@ -10,35 +10,35 @@ MyTV is a cutting edge, voice first television system powered by open source Lin
 
 ## Key Features
 
-- 🎙️ **Voice Interface**: Voice model enabling full voice control
-- 🧩 **Agent Architecture**: Action Agents handle diverse workflows
-- 🖥️ **Multi-Mode Use**: Media center, conference station, and workstation all in one
+- **Voice Interface**: Voice model enabling full voice control
+- **Agent Architecture**: Action Agents handle diverse workflows
+- **Multi-Mode Use**: Media center, conference station, and workstation all in one
 
 
 ## Hardware Stack
 
-| Component                          | Description                              |
-|-----------------------------------|------------------------------------------ |
-| 🎥 **Camera**                     | Leopard Imaging LI-IMX179-USB-130H-CONN   |
-| 💻 **Processor**                  | Raspberry Pi                              |
-| 🎤 **Audio Input**                | Yeti Nano Dual USB / Rode Wireless ME     |
-| ⌨️ **Keyboard Options**           | Man & Machine keyboard / Rii wireless     |
-| 🖥️ **Displays**                   | Sharp / NEC Display                       |
+| Component                      | Description                               |
+|--------------------------------|------------------------------------------ |
+| **Camera**                     | Leopard Imaging LI-IMX179-USB-130H-CONN   |
+| **Processor**                  | Raspberry Pi                              |
+| **Audio Input**                | Yeti Nano Dual USB / Rode Wireless ME     |
+| **Keyboard Options**           | Man & Machine keyboard / Rii wireless     |
+| **Displays**                   | Sharp / NEC Display                       |
 
 
 ## Software Stack
 
-- 💻 **OS**: Linux
-- 🔐 **Security**:
+- **OS**: Linux
+- **Security**:
   - Secure Web Browser
-- 📦 **Core Apps**:
+- **Core Apps**:
   - TV
   - Media
   - Retro Games
   - Conference
   - Browser
   - Settings
-- 🔧 **Utilities**:
+- **Utilities**:
   - Built-in tuner
   - Parsec
 
@@ -80,7 +80,7 @@ MyTV is a cutting edge, voice first television system powered by open source Lin
 - Includes **profile controls** and **privacy options**.  
 
 
-## 🔄 Voice Workflow Orchestration
+## Voice Workflow Orchestration
 
 All system functions are accessible by voice through our agentic system:
 
